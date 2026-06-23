@@ -2,7 +2,6 @@ NAME                                VERSION                             TYPE
 @babel/runtime                      7.29.2                              npm             
 @mikespub/epubjs-reader             2026.1.24                           npm             
 @mikespub/web-comic-reader          2026.1.24                           npm             
-OPDSValidator                       UNKNOWN                             java-archive    
 acl-libs                            2.3.2-r1                            apk             
 alpine-baselayout                   3.7.0-r0                            apk             
 alpine-baselayout-data              3.7.0-r0                            apk             
@@ -48,7 +47,6 @@ golang.org/x/sync                   v0.0.0-20210220032951-036812b2e83c  go-modul
 golang.org/x/text                   v0.3.6                              go-module       
 icu-data-full                       76.1-r1                             apk             
 icu-libs                            76.1-r1                             apk             
-jing                                UNKNOWN                             java-archive    
 jq                                  1.8.1-r0                            apk             
 jquery                              3.7.1                               npm             
 js-cookie                           3.0.8                               npm             
@@ -61,7 +59,7 @@ libcrypto3                          3.5.7-r0                            apk
 libcurl                             8.14.1-r2                           apk             
 libdav1d                            1.5.1-r0                            apk             
 libedit                             20250104.3.1-r1                     apk             
-libexpat                            2.7.5-r0                            apk             
+libexpat                            2.8.1-r0                            apk             
 libgcc                              14.2.0-r6                           apk             
 libice                              1.1.2-r0                            apk             
 libidn2                             2.3.7-r0                            apk             
@@ -96,17 +94,17 @@ lru-fast                            0.2.2                               npm
 maennchen/zipstream-php             3.2.2                               php-composer    
 magnific-popup                      1.2.0                               npm             
 mikespub/epubjs-reader              2026.1.24                           php-composer    
-mikespub/php-epub-meta              4.1.2                               php-composer    
+mikespub/php-epub-meta              4.1.3                               php-composer    
 mikespub/web-comic-reader           2026.1.24                           php-composer    
 minimatch                           10.2.3                              npm             
-mozilla/pdfjs-dist                  5.7.284                             php-composer    
+mozilla/pdfjs-dist                  6.0.227                             php-composer    
 musl                                1.2.5-r12                           apk             
 musl-utils                          1.2.5-r12                           apk             
 nano                                8.4-r0                              apk             
 ncurses-terminfo-base               6.5_p20250503-r0                    apk             
 netcat-openbsd                      1.229.1-r0                          apk             
 nghttp2-libs                        1.69.0-r0                           apk             
-nginx                               1.28.3-r3                           apk             
+nginx                               1.28.3-r4                           apk             
 normalize.css                       8.0.1                               npm             
 npm-asset/babel--runtime            7.29.2                              php-composer    
 npm-asset/balanced-match            4.0.4                               php-composer    
@@ -168,7 +166,7 @@ symfony/http-foundation             v8.1.0                              php-comp
 symfony/polyfill-ctype              v1.37.0                             php-composer    
 symfony/polyfill-intl-grapheme      v1.38.1                             php-composer    
 symfony/polyfill-intl-normalizer    v1.38.0                             php-composer    
-symfony/polyfill-mbstring           v1.38.1                             php-composer    
+symfony/polyfill-mbstring           v1.38.2                             php-composer    
 symfony/routing                     v8.1.0                              php-composer    
 symfony/string                      v8.1.0                              php-composer    
 symfony/translation-contracts       v3.7.0                              php-composer    
